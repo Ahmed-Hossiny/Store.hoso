@@ -1,0 +1,6 @@
+@Store.hoso.APIs_HostAddress = http://localhost:5152
+
+GET {{Store.hoso.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
